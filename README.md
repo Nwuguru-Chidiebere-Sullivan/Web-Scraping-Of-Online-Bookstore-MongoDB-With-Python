@@ -1,5 +1,5 @@
 # [Web_Scrapping_Project](https://github.com/Nwuguru-Chidiebere-Sullivan/Web_Scraping_Project/blob/main/Web_Scrapping_of_A_Book_Store.ipynb)
-
+![](/web-scraping.webp)
 **Context:**
 The data for this project was scraped from the 'Books to Scrape' website using Python. The scraping was done across the 50 pages of the website.
 
