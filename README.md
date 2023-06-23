@@ -4,7 +4,7 @@
 The data for this project was scraped from the 'Books to Scrape' website using Python. The scraping was done across the 50 pages of the website.
 
 **Aim**
-The aim of this project is to scrape data from up to 50 pages website, transform the data into a CSV file, and possibly carry out some level of analysis on the dataset.
+The aim of this project is to scrape data from a website of about 50 pages, transform the data into a CSV file, insert the CSV file into a database using pymongo of MongoDB, and thereafter, retrieve the collection from the databse and read it into a DataFrame which can be analysed, manipulated, and processed for Data Science works.
 
 **Column Information:**
 1. Title: Name of the book
