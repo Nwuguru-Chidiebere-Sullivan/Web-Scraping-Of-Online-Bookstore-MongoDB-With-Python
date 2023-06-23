@@ -10,3 +10,4 @@ The aim of this project is to scrape data from a website of about 50 pages, tran
 1. Title: Name of the book
 2. Price: The cost of the book
 3. Star_rating: The rating of the book by readers
+4. _id: The id number of each column
