@@ -1,4 +1,4 @@
-# [Web Scraping Of Online Bookstore & MongoDB With Python](https://github.com/Nwuguru-Chidiebere-Sullivan/Web_Scraping_Project/blob/main/Web_Scrapping_of_A_Book_Store.ipynb)
+# [Web Scraping Of Online Bookstore & MongoDB With Python]([https://github.com/Nwuguru-Chidiebere-Sullivan/Web_Scraping_Project/blob/main/Web_Scrapping_of_A_Book_Store.ipynb](https://github.com/Nwuguru-Chidiebere-Sullivan/Web-Scraping-Of-Online-Bookstore-MongoDB-With-Python/blob/main/Web%20Scraping%20Of%20Online%20Bookstore%20%26%20MongoDB%20With%20Python.ipynb))
 ![](/web-scraping.webp)
 **Context:**
 The data for this project was scraped from the 'Books to Scrape' website using Python. The scraping was done across the 50 pages of the website.
